@@ -1,0 +1,1 @@
+stringTest.o: ../stringTest.cc
